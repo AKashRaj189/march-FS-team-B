@@ -1,1 +1,2 @@
-Hello! Have  a good day.
+Hello!
+Have a good day.
