@@ -1,3 +1,8 @@
-hellooo hi
+x= input("enter number")
 
-added new line
+if x==x[::-1]:
+    print("palindrome")
+else:
+    print("not")
+    
+        
